@@ -15,14 +15,14 @@ import (
 	"time"
 
 	socketio "github.com/googollee/go-socket.io"
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/nla"
-	"github.com/tomatome/grdp/protocol/pdu"
-	"github.com/tomatome/grdp/protocol/sec"
-	"github.com/tomatome/grdp/protocol/t125"
-	"github.com/tomatome/grdp/protocol/tpkt"
-	"github.com/tomatome/grdp/protocol/x224"
+	"github.com/kalifun/grdp-temporary/core"
+	"github.com/kalifun/grdp-temporary/glog"
+	"github.com/kalifun/grdp-temporary/protocol/nla"
+	"github.com/kalifun/grdp-temporary/protocol/pdu"
+	"github.com/kalifun/grdp-temporary/protocol/sec"
+	"github.com/kalifun/grdp-temporary/protocol/t125"
+	"github.com/kalifun/grdp-temporary/protocol/tpkt"
+	"github.com/kalifun/grdp-temporary/protocol/x224"
 )
 
 var im = 0

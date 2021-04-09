@@ -1,4 +1,4 @@
-module github.com/tomatome/grdp
+module github.com/kalifun/grdp-temporary
 
 go 1.15
 

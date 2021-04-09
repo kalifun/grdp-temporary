@@ -11,12 +11,12 @@ import (
 	"math/big"
 	"unicode/utf16"
 
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/emission"
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/lic"
-	"github.com/tomatome/grdp/protocol/t125"
-	"github.com/tomatome/grdp/protocol/t125/gcc"
+	"github.com/kalifun/grdp-temporary/core"
+	"github.com/kalifun/grdp-temporary/emission"
+	"github.com/kalifun/grdp-temporary/glog"
+	"github.com/kalifun/grdp-temporary/protocol/lic"
+	"github.com/kalifun/grdp-temporary/protocol/t125"
+	"github.com/kalifun/grdp-temporary/protocol/t125/gcc"
 )
 
 /**
